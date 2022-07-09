@@ -1,5 +1,5 @@
-const add = require('.')
+const minus = require('.')
 
 test('add', () => {
-  expect(add(1, 2)).toEqual(3)
+  expect(minus(2, 1)).toEqual(1)
 })
