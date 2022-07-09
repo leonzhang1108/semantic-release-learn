@@ -1,0 +1,24 @@
+{
+  "name": "semantic-release-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonzhang1108/semantic-release-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonzhang1108/semantic-release-learn/issues"
+  },
+  "homepage": "https://github.com/leonzhang1108/semantic-release-learn#readme",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "semantic-release": "^19.0.3"
+  }
+}
